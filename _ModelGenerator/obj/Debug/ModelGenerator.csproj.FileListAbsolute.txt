@@ -1,0 +1,12 @@
+D:\GitProject\Unicorn\UnicornWeb\ModelGenerator\bin\Debug\ModelGenerator.exe.config
+D:\GitProject\Unicorn\UnicornWeb\ModelGenerator\bin\Debug\ModelGenerator.exe
+D:\GitProject\Unicorn\UnicornWeb\ModelGenerator\bin\Debug\ModelGenerator.pdb
+D:\GitProject\Unicorn\UnicornWeb\ModelGenerator\bin\Debug\NPoco.dll
+D:\GitProject\Unicorn\UnicornWeb\ModelGenerator\obj\Debug\ModelGenerator.csproj.AssemblyReference.cache
+D:\GitProject\Unicorn\UnicornWeb\ModelGenerator\obj\Debug\ModelGenerator.FormModelGenerator.resources
+D:\GitProject\Unicorn\UnicornWeb\ModelGenerator\obj\Debug\ModelGenerator.Properties.Resources.resources
+D:\GitProject\Unicorn\UnicornWeb\ModelGenerator\obj\Debug\ModelGenerator.csproj.GenerateResource.cache
+D:\GitProject\Unicorn\UnicornWeb\ModelGenerator\obj\Debug\ModelGenerator.csproj.CoreCompileInputs.cache
+D:\GitProject\Unicorn\UnicornWeb\ModelGenerator\obj\Debug\ModelGenerator.csproj.CopyComplete
+D:\GitProject\Unicorn\UnicornWeb\ModelGenerator\obj\Debug\ModelGenerator.exe
+D:\GitProject\Unicorn\UnicornWeb\ModelGenerator\obj\Debug\ModelGenerator.pdb
